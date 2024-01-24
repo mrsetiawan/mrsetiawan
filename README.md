@@ -9,7 +9,7 @@ Hi, I'm Muhamad Rahmat Setiawan, currently working as a web frontend developers 
 * 🌍  I'm based in Jakarta, Indonesia
 * 🖥️  See my portfolio at [MyPortfolio](http://mrsetiawan.github.io)
 * ✉️  You can contact me at [muhamadrahmatsetiawan@gmail.com](mailto:muhamadrahmatsetiawan@gmail.com)
-* 🧠  I'm learning Angular, Svelte, Web 3, HTMX
+* 🧠  I'm learning Angular, Svelte, HTMX and all about frontend tech
 * 🤝  I'm open to collaborating on Side project
 * ⚡  nopeeee
 
